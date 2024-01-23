@@ -55,5 +55,10 @@ Anyway, enjoy my sample programs and the world of Open Dynamics Engine.
 
 Kosei Demura
 
+# Caution 
 
+do not foget to change the path directory at Makefile below 
 
+TOP_SRCDIR = /home/demulab/src/ode-0.16.1
+
+to your pc path
